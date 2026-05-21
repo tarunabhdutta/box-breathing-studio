@@ -9,6 +9,10 @@ A free, fully offline meditation app shipped in two flavours:
 
 Developed by **Tarunabh Dutta** · TD Film Studio, Guwahati 🇮🇳
 
+### 👉 [Click here for the simple step-by-step install guide](INSTALL.md)
+
+*(Android, iPhone, and Windows — pick your device and follow 3-5 steps.)*
+
 ---
 
 ## Features
