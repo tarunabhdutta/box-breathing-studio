@@ -13,6 +13,8 @@ Developed by **Tarunabh Dutta** · TD Film Studio, Guwahati 🇮🇳
 
 *(Android, iPhone, and Windows — pick your device and follow 3-5 steps.)*
 
+📖 **Developers / future-me**: see [MANUAL.md](MANUAL.md) for the complete build documentation — every step from scratch, every Higgsfield prompt, every command, every bug fix, every decision.
+
 ---
 
 ## Features
