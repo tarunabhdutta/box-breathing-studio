@@ -36,7 +36,7 @@ Every phase is guided by a calm female voice (*Microsoft Aria Neural*, slowed �
 The mobile version is hosted by GitHub Pages. **No app store needed.**
 
 1. On your phone, open Chrome.
-2. Visit: **`https://YOUR-GITHUB-USERNAME.github.io/box-breathing-studio/`**
+2. Visit: **`https://tarunabhdutta.github.io/box-breathing-studio/`**
 3. Chrome menu (⋮) → **Install app** (or "Add to home screen")
 4. The lotus icon appears on your home screen — tap to launch full-screen.
 
