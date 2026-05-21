@@ -1,0 +1,30 @@
+# Box Breathing Studio — files that should NOT be committed.
+
+# Bundled Python (rebuild locally via windows/build_portable.bat)
+windows/python_portable/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Runtime logs from the desktop app
+error.log
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build cache
+build_cache/
+*.zip
