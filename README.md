@@ -1,8 +1,21 @@
-# Box Breathing Studio
+# Box Breathing Studio: free offline breathing exercises app
 
 > Guided pranayama and breathwork for sleep, stress, anxiety, elevated heart rate, and the wear-and-tear of long sedentary work days.
 
-A free, fully offline meditation app shipped in two flavours:
+[![Open the app](https://img.shields.io/badge/Open%20the%20app-free-7cc4ff)](https://tarunabhdutta.github.io/box-breathing-studio/)
+[![Download for Windows](https://img.shields.io/github/v/release/tarunabhdutta/box-breathing-studio?label=Windows%20download)](https://github.com/tarunabhdutta/box-breathing-studio/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/tarunabhdutta/box-breathing-studio?style=social)](https://github.com/tarunabhdutta/box-breathing-studio/stargazers)
+
+**▶ Try it now in your browser: https://tarunabhdutta.github.io/box-breathing-studio/**
+
+A free, open-source **breathing exercises app** with calm voice guidance: a **box breathing timer** (square breathing / Sama Vritti), **4-7-8 breathing for sleep**, **Bhramari pranayama** (humming bee breath), **Anulom Vilom / Nadi Shodhana** alternate nostril breathing, extended exhale and a custom breath builder. It works fully offline, with no ads, no signup and no data collection.
+
+**How-to guides:** [Box breathing](https://tarunabhdutta.github.io/box-breathing-studio/guide/box-breathing.html) · [4-7-8 breathing](https://tarunabhdutta.github.io/box-breathing-studio/guide/4-7-8-breathing.html) · [Bhramari pranayama](https://tarunabhdutta.github.io/box-breathing-studio/guide/bhramari-pranayama.html) · [Anulom Vilom](https://tarunabhdutta.github.io/box-breathing-studio/guide/anulom-vilom.html) · [All breathing exercises](https://tarunabhdutta.github.io/box-breathing-studio/guide/)
+
+⭐ If it helps you breathe easier, please star the repo so more people can find it.
+
+Shipped in two flavours:
 
 - **🪟 Windows desktop** — full-screen immersive Pygame app
 - **📱 Mobile PWA** — installable on Android (and iOS) via Chrome

@@ -1,7 +1,7 @@
 {
   "name": "Box Breathing Studio",
   "short_name": "Box Breath",
-  "description": "Guided pranayama and breathwork by Tarunabh Dutta",
+  "description": "Free offline guided breathing exercises: box breathing, 4-7-8, Bhramari, Anulom Vilom (Nadi Shodhana). By Tarunabh Dutta.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -27,5 +27,11 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ]
+  ],
+  "categories": [
+    "health",
+    "lifestyle",
+    "medical"
+  ],
+  "lang": "en"
 }
